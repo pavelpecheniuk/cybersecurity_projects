@@ -1,1 +1,3 @@
-
+This write-up documents completion of the room Investigating with Splunk by TryHackMe.
+The main task is to investigate logs from infected Windows machines to identify anomalous behaviour with the help of the well-known popular SIEM tool Splunk.
+The main objective is to demonstrate my exposure to Splunk and log analysis skills for efficient threat detection and response, as well as the Windows security monitoring knowledge.
